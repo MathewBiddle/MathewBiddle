@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on workshops.
 - 🌱 I’m currently learning how to deploy websites through GitHub.
 - 👯 I’m looking to collaborate on biological data management.
-- 🤔 I’m looking for help with learning R.
+- 🤔 I’m looking for help making reusable GitHub Action workflows.
 - 💬 Ask me about oceanographic data management.
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him/his
