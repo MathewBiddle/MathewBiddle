@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on workshops.
+- 🔭 I’m currently working on hosting workshops and developing opensource training materials.
 - 🌱 I’m currently learning how to deploy websites through GitHub.
 - 👯 I’m looking to collaborate on biological data management.
 - 🤔 I’m looking for help making reusable GitHub Action workflows.
