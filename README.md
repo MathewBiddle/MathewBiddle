@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I like to surf.
 
+## My Skills
+
+![My Skills](https://skillicons.dev/icons?i=github,git,py,r,bash,markdown,vim,pycharm,docker,matlab)
