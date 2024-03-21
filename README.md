@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=github,git,py,r,bash,markdown,vim,pycharm,docker,matlab)
+![My Skills](https://skillicons.dev/icons?i=github,git,py,r,bash,markdown,vim,pycharm,docker,latex,anaconda,matlab)
 
 ![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathewbiddle&layout=compact)
