@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![My Skills](https://skillicons.dev/icons?i=github,git,py,r,bash,markdown,vim,pycharm,docker,latex,anaconda,matlab)
 
 ![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathewbiddle&layout=compact)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathewbiddle&show_icons=true&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)
